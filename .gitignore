@@ -1,0 +1,12 @@
+# Your WiFi name and password (copy secrets.example.h to secrets.h)
+secrets.h
+
+# Build output and editor files
+build/
+*.bin
+*.elf
+*.zip
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

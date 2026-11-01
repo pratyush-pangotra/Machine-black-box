@@ -1,0 +1,8 @@
+# Same line endings on every computer (avoids Windows/Linux "whole file changed" diffs)
+* text=auto eol=lf
+
+# Binary files: never touch them
+*.woff2 binary
+*.png   binary
+*.jpg   binary
+*.zip   binary
